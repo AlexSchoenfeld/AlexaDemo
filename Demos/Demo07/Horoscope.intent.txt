@@ -1,0 +1,2 @@
+﻿Was sagt das Horoskop für {Sign}
+Wie lautet das Horoskop für {Sign}
